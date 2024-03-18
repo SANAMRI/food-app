@@ -1,5 +1,5 @@
 {
-  "expo": {
+  "y": {
     "name": "mobile",
     "slug": "mobile",
     "version": "1.0.0",
@@ -7,7 +7,7 @@
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/Logo-commerce.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },

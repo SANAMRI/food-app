@@ -1,0 +1,83 @@
+[
+    {
+        "id":1,
+      "imageURL": "https://images.radio-canada.ca/v1/alimentation/recette/4x3/burger-jamaicaine.jpg",
+      "category": "Burger",
+      "productName": "Classic Burger",
+      "price": 5.99,
+      "description": "A classic beef patty topped with lettuce, tomato, onion, cheese, and special sauce on a sesame seed bun."
+    },
+    {
+        "id":2,
+      "imageURL": "https://images.radio-canada.ca/v1/alimentation/recette/4x3/burger-jamaicaine.jpg",
+      "category": "Pizza",
+      "productName": "Pepperoni Pizza",
+      "price": 8.99,
+      "description": "Classic pizza topped with pepperoni slices, mozzarella cheese, and tangy tomato sauce."
+    },
+    {
+        "id":3,
+      "imageURL": "https://images.radio-canada.ca/v1/alimentation/recette/4x3/burger-jamaicaine.jpg",
+      "category": "Sides",
+      "productName": "Chicken Fries",
+      "price": 4.49,
+      "description": "Crispy chicken fries seasoned to perfection, served with your choice of dipping sauce."
+    },
+    {
+        "id":4,
+      "imageURL": "https://example.com/cola.jpg",
+      "category": "Beverage",
+      "productName": "Cola",
+      "price": 1.99,
+      "description": "Classic cola beverage, refreshing and bubbly."
+    },
+    {
+        "id":5,
+      "imageURL": "https://example.com/club_sandwich.jpg",
+      "category": "Sandwich",
+      "productName": "Club Sandwich",
+      "price": 6.49,
+      "description": "Triple-layered sandwich with layers of turkey, ham, bacon, lettuce, tomato, and mayo on toasted bread."
+    },
+    {
+        "id":6,
+      "imageURL": "https://example.com/cheeseburger.jpg",
+      "category": "Burger",
+      "productName": "Double Cheeseburger",
+      "price": 7.99,
+      "description": "Two juicy beef patties layered with melted cheese, pickles, onions, ketchup, and mustard on a sesame seed bun."
+    },
+    {
+        "id":7,
+      "imageURL": "https://example.com/vegetarian_pizza.jpg",
+      "category": "Pizza",
+      "productName": "Vegetarian Pizza",
+      "price": 9.49,
+      "description": "Freshly made pizza topped with a variety of vegetables including bell peppers, mushrooms, onions, and olives."
+    },
+    {
+        "id":8,
+      "imageURL": "https://example.com/onion_rings.jpg",
+      "category": "Sides",
+      "productName": "Onion Rings",
+      "price": 3.99,
+      "description": "Crunchy and crispy onion rings, perfect as a side dish or snack."
+    },
+    {
+        "id":9,
+      "imageURL": "https://example.com/lemonade.jpg",
+      "category": "Beverage",
+      "productName": "Lemonade",
+      "price": 2.49,
+      "description": "Freshly squeezed lemonade, sweet and tangy."
+    },
+    {
+        "id":10,
+      "imageURL": "https://example.com/grilled_chicken_burger.jpg",
+      "category": "Burger",
+      "productName": "Grilled Chicken Burger",
+      "price": 6.49,
+      "description": "Tender grilled chicken breast topped with lettuce, tomato, mayo, and a touch of honey mustard on a whole grain bun."
+    }
+  ]
+  

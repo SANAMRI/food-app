@@ -1,0 +1,124 @@
+[
+    {
+        "id":1,
+      "imageURL": "https://chicknbeef.fr/wp-content/uploads/2022/12/IMG-20221227-WA0011.jpg",
+      "category": "Menus",
+      "productName": "Bacon Gourmet",
+      "price": 10.40,
+      "description": "Pain gourmet, steak 150g cuit à la flamme, salade, oignons rouges, cheddar fumé, sauce Mayo BBQ"
+    },
+    {
+        "id":2,
+      "imageURL": "https://chicknbeef.fr/wp-content/uploads/2020/09/visuels-menus-chicknbeef-grill-15-300x300.png",
+      "category": "Menus",
+      "productName": "Beef's Toast",
+      "price": 8.90,
+      "description": "Standart steak tomate sauce fromage."
+    },
+    {
+        "id":3,
+      "imageURL":"https://chicknbeef.fr/wp-content/uploads/2020/09/visuels-menus-chicknbeef-grill-1-1-300x300.png",
+      "category": "Menus",
+      "productName": "Big'n Beef",
+      "price": 7.40,
+      "description": "Crispy chicken fries seasoned to perfection, served with your choice of dipping sauce."
+    },
+    {
+        "id":4,
+      "imageURL": "https://chicknbeef.fr/wp-content/uploads/2020/09/visuels-menus-chicknbeef-grill-4-600x600.png",
+      "category": "Menus",
+      "productName": "Cheese Burger",
+      "price":5.00,
+      "description": "Hamberguer classic au fromage"
+    },
+    {
+        "id":5,
+      "imageURL": "https://chicknbeef.fr/wp-content/uploads/2022/12/IMG-20221227-WA0015-600x600.jpg",
+      "category": "Menus",
+      "productName": "Chèvre Miel Gourmet",
+      "price": 10.90,
+      "description": "Pain gourmet, steak 150g cuit à la flamme, salade, oignons rouges, cheddar fumé, sauce Mayo Moutarde Miel"
+    },
+    {
+        "id":6,
+      "imageURL": "https://chicknbeef.fr/wp-content/uploads/2020/09/visuels-menus-chicknbeef-grill-10-600x600.png",
+      "category": "Menus",
+      "productName": "Chik'n Beef",
+      "price": 9.90,
+      "description": "Pain gourmet, steak 150g cuit à la flamme, salade, oignons rouges, cheddar fumé, sauce Mayo BBQ."
+    },
+    {
+        "id":7,
+      "imageURL": "https://chicknbeef.fr/wp-content/uploads/2020/09/visuels-menus-chicknbeef-grill-9-600x600.png",
+      "category": "Menus",
+      "productName": "Chick’n Filet",
+      "price": 7.90, 
+      "description": "Pain gourmet, steak poulet 150g cuit à la flamme, salade, oignons rouges, cheddar fumé, sauce Mayo BBQ."
+    },
+    {
+        "id":8,
+      "imageURL": "https://chicknbeef.fr/wp-content/uploads/2020/09/visuels-menus-chicknbeef-grill-22-600x600.png",
+      "category": "Menus",
+      "productName": "Chick’n Roll",
+      "price": 8.90,
+      "description": "Sauce fromagère. Salade. Oignons frits. Roasty (galette pomme de terre)."
+    },
+    {
+        "id":9,
+      "imageURL": "https://example.com/lemonade.jpg",
+      "category": "Menus",
+      "productName": "Chicken Crousty",
+      "price":6.40,
+      "description": "Médaillon de soja, sauce végé, crudités,galette de PDT, cheddar vg.."
+    },
+    {
+        "id":10,
+      "imageURL": "https://chicknbeef.fr/wp-content/uploads/2022/12/IMG-20221227-WA0012-600x600.jpg",
+      "category": "Menus",
+      "productName": "Classic Gourmet",
+      "price": 7.40,
+      "description": "Pain gourmet, steak 150g cuit à la flamme, salade, oignons rouges, tomate, cheddar fumé, sauce Mayo BBQ."
+    },
+    {
+      "id":11,
+    "imageURL": "https://chicknbeef.fr/wp-content/uploads/2022/12/IMG-20221227-WA0012-600x600.jpg",
+    "category": "Menus",
+    "productName": "Double Cheese",
+    "price": 3.90,
+    "description": "Pain gourmet, steak 150g cuit à la flamme, salade, oignons rouges, tomate, cheddar fumé, sauce Mayo BBQ."
+  },
+  {
+    "id":12,
+  "imageURL": "https://chicknbeef.fr/wp-content/uploads/2022/12/IMG-20221227-WA0012-600x600.jpg",
+  "category": "Menus",
+  "productName": "Double Wooper",
+  "price": 9.00,
+  "description": "Pain gourmet, steak 150g cuit à la flamme, salade, oignons rouges, tomate, cheddar fumé, sauce Mayo BBQ."
+},
+{
+  "id":13,
+"imageURL": "https://chicknbeef.fr/wp-content/uploads/2022/12/IMG-20221227-WA0012-600x600.jpg",
+"category": "Menus",
+"productName": "Fish’n fish",
+"price": 7.00,
+"description": "Pain gourmet, steak 150g cuit à la flamme, salade, oignons rouges, tomate, cheddar fumé, sauce Mayo BBQ."
+},
+{
+  "id":14,
+"imageURL": "https://chicknbeef.fr/wp-content/uploads/2020/09/visuels-menus-chicknbeef-grill-3-300x300.png",
+"category": "Menus",
+"productName": "Hamburger",
+"price":4.50,
+"description": "Pain gourmet, un bifteck haché rond et épais, constituant un élément de base du barbecue américain traditionnel"
+},
+{
+"id":15,
+"imageURL": "https://chicknbeef.fr/wp-content/uploads/2020/09/visuels-menus-chicknbeef-grill-17-600x600.png",
+"category": "Menus",
+"productName": "Maxi Beef",
+"price":10.90,
+"description": "Pain gourmet, un bifteck haché rond et épais, constituant un élément de base du barbecue américain traditionnel"
+}
+
+  ]
+  

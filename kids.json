@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+      "imageURL": "https://chicknbeef.fr/wp-content/uploads/2020/10/hamburger-menu-enfant-600x600.png",
+      "category": "Menus",
+      "productName": "Menu Beef’n Kid (+ Surprise)",
+      "price": 5.50,
+      "description": "humberger and freet and caprison and yaourt"
+    },
+    {
+        "id":2,
+      "imageURL": "https://chicknbeef.fr/wp-content/uploads/2020/10/menu-enfant-fish-600x600.png",
+      "category": "Menus",
+      "productName": "Beef's Toast",
+      "price": 5.50,
+      "description": "fish or nugets and frit and caprison and yaourt."
+    }
+
+  ]
+  
